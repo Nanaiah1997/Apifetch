@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -35,4 +36,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+span{
+  font-weight: bold;
+}
+
+.container{
+  background-color: #282c34;
+}
+
+h1{
+  text-align: center;
+  color: wheat;
 }
